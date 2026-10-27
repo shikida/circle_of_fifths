@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Circle of Fifths",
+  "version": "1.0.0",
+  "description": "Shows the circle of fifths for major and minor chords.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Circle of Fifths"
+  }
+}

@@ -1,0 +1,8 @@
+body { width: 340px; font-family: sans-serif; text-align: center; margin: 8px; }
+h1 { font-size: 16px; margin: 4px 0; }
+.major { fill: #cfe3ff; stroke: #345; }
+.minor { fill: #ffe3cf; stroke: #345; }
+.wedge:hover, .selected { opacity: .7; stroke-width: 2; }
+text { font-size: 14px; text-anchor: middle; dominant-baseline: central; pointer-events: none; }
+text.minor-label { font-size: 12px; }
+#info { font-size: 13px; min-height: 36px; }
